@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Jakariya H.
 #### Full Stack Software Developer
-![Full Stack Software Developer](https://www.canva.com/design/DAEwijRkj34/rZ8U7YVCfqbhySTj-LHGAQ/view?utm_content=DAEwijRkj34&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![Full Stack Software Developer]<img src="banner.jpg">
 
 Flutter 1.5 year, Android 2 year
 
